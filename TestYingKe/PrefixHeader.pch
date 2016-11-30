@@ -1,0 +1,22 @@
+//
+//  PrefixHeader.pch
+//  TestYingKe
+//
+//  Created by xujing on 16/11/21.
+//  Copyright © 2016年 xujing. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "TYKVender.h"
+#import "TYKCommentConfig.h"
+#import "APIConfig.h"
+#import "HttpTool.h"
+#import "UIImageView+SDWebImage.h"
+#import "UIButton+WebCache.h"
+#import <YYKit/YYKit.h>
+#import "Masonry.h"
+
+
+#endif /* PrefixHeader_pch */
